@@ -1,6 +1,6 @@
 # 💫 Hey, I'm Jigyasu:
 
-![this isn't happiness_](https://github.com/user-attachments/assets/5dc11b4c-c64d-4dd7-9990-082279d70407)
+![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f)
 
 
 ## 🌐 Socials:
