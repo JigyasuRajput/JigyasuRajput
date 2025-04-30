@@ -11,4 +11,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-https://github-readme-streak-stats-eight.vercel.app/?user=JigyasuRajput&theme=tokyonight
+![GitHub Streak Stats](https://github-readme-streak-stats-eight.vercel.app/?user=JigyasuRajput&theme=tokyonight)
