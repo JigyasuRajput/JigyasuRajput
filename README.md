@@ -11,4 +11,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![GitHub Streak Stats](https://github-readme-streak-stats-eight.vercel.app/?user=JigyasuRajput&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JigyasuRajput&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
