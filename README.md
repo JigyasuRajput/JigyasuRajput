@@ -11,4 +11,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JigyasuRajput&theme=dark)](https://git.io/streak-stats)
+https://github-readme-streak-stats-eight.vercel.app/?user=JigyasuRajput&theme=tokyonight
