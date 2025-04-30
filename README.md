@@ -14,3 +14,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JigyasuRajput&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
+
+<div style="padding: 20px; border: 5px solid #ff00ff; border-radius: 15px; background: linear-gradient(145deg, #2a2139, #402b5e); box-shadow: 0px 0px 20px 5px #ff00ff;">
+  <h3 style="text-align: center; color: #ffffff; font-family: 'Courier New', monospace;">Thank you for visiting my GitHub Profile! 🚀</h3>
+</div>
