@@ -8,6 +8,6 @@
 * → Contributions to [Intel/cve-bin-tool](https://github.com/intel/cve-bin-tool):
     * ➤ Built a tool to update Vex files: [Vex-Updater](https://github.com/JigyasuRajput/vex-updater).
     * ➤ Built [Vex-Validate](https://github.com/intel/cve-bin-tool/pull/5144).
-    * ➤ Added Triage to HTML reports ([here](https://github.com/intel/cve-bin-tool/pull/5295)).
+    * ➤ Added Triage to HTML reports [here](https://github.com/intel/cve-bin-tool/pull/5295).
     * ➤ Built [Vex-Archive](https://github.com/intel/cve-bin-tool/pull/5297).
     * ➤ Added support for [CVSS-V4](https://github.com/intel/cve-bin-tool/pull/4944).
