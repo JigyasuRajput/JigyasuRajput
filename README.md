@@ -1,16 +1,13 @@
-# 💫 Hey, I'm Jigyasu:
+21, Engineer — building cool stuff
 
-![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jigyasu-rajput-218657284/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Jigyasu_rajput) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)   
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JigyasuRajput&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
+- GSoC '25 @ [Python Software Foundation](https://www.python.org/psf/)  
+- Significant contributions to [Intel](https://github.com/intel), [Wagtail](https://github.com/wagtail), and [Python Argentina](https://github.com/pyar)
+- Built [GSoC-Spy ⭐️69](https://gsoc-spy.vercel.app/) ➢ solved the GSoC competition problem forever  
+- Created [NeuralMeet](https://github.com/JigyasuRajput/neuralmeet) ➢ a platform to chat with custom AI agents  
+- Built an [Exness clone](https://github.com/JigyasuRajput/exness-clone) (options trading platform) from scratch  
+- At [Intel/cve-bin-tool](https://github.com/intel/cve-bin-tool)
+╰┈➤ Built a tool to Update their Vex Files [Vex-Updater](https://github.com/JigyasuRajput/vex-updater)
+╰┈➤ Built [Vex-Validate](https://github.com/intel/cve-bin-tool/pull/5144)
+╰┈➤ Added Triage to their HTML reports [here](https://github.com/intel/cve-bin-tool/pull/5295)
+╰┈➤ Built [Vex-Archive](https://github.com/intel/cve-bin-tool/pull/5297)
+╰┈➤ Added support for [CVSS-V4](https://github.com/intel/cve-bin-tool/pull/4944)
