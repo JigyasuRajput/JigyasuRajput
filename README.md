@@ -2,12 +2,12 @@
 
 - GSoC '25 @ [Python Software Foundation](https://www.python.org/psf/)  
 - Significant contributions to [Intel](https://github.com/intel), [Wagtail](https://github.com/wagtail), and [Python Argentina](https://github.com/pyar)
-- Built [GSoC-Spy ⭐️69](https://gsoc-spy.vercel.app/) ➢ solved the GSoC competition problem forever  
+- Built [GSoC-Spy](https://gsoc-spy.vercel.app/) ⭐️69 ➢ solved the GSoC competition problem forever  
 - Created [NeuralMeet](https://github.com/JigyasuRajput/neuralmeet) ➢ a platform to chat with custom AI agents  
-- Built an [Exness clone](https://github.com/JigyasuRajput/exness-clone) (options trading platform) from scratch  
+- Built an [Exness clone](https://github.com/JigyasuRajput/exness-clone) from scratch (options trading platform) 
 - At [Intel/cve-bin-tool](https://github.com/intel/cve-bin-tool)
-╰┈➤ Built a tool to Update their Vex Files [Vex-Updater](https://github.com/JigyasuRajput/vex-updater)
-╰┈➤ Built [Vex-Validate](https://github.com/intel/cve-bin-tool/pull/5144)
-╰┈➤ Added Triage to their HTML reports [here](https://github.com/intel/cve-bin-tool/pull/5295)
-╰┈➤ Built [Vex-Archive](https://github.com/intel/cve-bin-tool/pull/5297)
-╰┈➤ Added support for [CVSS-V4](https://github.com/intel/cve-bin-tool/pull/4944)
+➢ Built a tool to Update their Vex Files [Vex-Updater](https://github.com/JigyasuRajput/vex-updater)
+➢ Built [Vex-Validate](https://github.com/intel/cve-bin-tool/pull/5144)
+➢ Added Triage to their HTML reports [here](https://github.com/intel/cve-bin-tool/pull/5295)
+➢ Built [Vex-Archive](https://github.com/intel/cve-bin-tool/pull/5297)
+➢ Added support for [CVSS-V4](https://github.com/intel/cve-bin-tool/pull/4944)
