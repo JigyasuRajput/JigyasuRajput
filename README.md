@@ -2,7 +2,7 @@
 
 * → GSoC '25 @ [Python Software Foundation](https://www.python.org/psf/)
 * → Significant contributions to [Intel](https://github.com/intel), [Wagtail](https://github.com/wagtail), and [Python Argentina](https://github.com/pyar).
-* → Built [GSoC-Spy](https://gsoc-spy.vercel.app/) ⭐ 69 — solved the GSoC competition problem forever.
+* → Built [GSoC-Spy](https://gsoc-spy.vercel.app/) ⭐ 74 — solved the GSoC competition problem forever.
 * → Created [NeuralMeet](https://github.com/JigyasuRajput/neuralmeet), a platform to chat with custom AI agents.
 * → Building an [Exness clone](https://github.com/JigyasuRajput/exness) from scratch (options trading platform).
 * → Contributions to [Intel/cve-bin-tool](https://github.com/intel/cve-bin-tool):
