@@ -1,6 +1,6 @@
 21, Engineer, building cool stuff
 
-* → GSoC '25 @ [Python Software Foundation](https://www.python.org/psf/)
+* → Google Summer Of Code @ [Python Software Foundation](https://www.python.org/psf/)
 * → Significant contributions to [Intel](https://github.com/intel), [Wagtail](https://github.com/wagtail), and [Python Argentina](https://github.com/pyar).
 * → Built [GSoC-Spy](https://gsoc-spy.vercel.app/) ⭐ 74 — solved the GSoC competition problem forever.
 * → Created [NeuralMeet](https://github.com/JigyasuRajput/neuralmeet), a platform to chat with custom AI agents.
