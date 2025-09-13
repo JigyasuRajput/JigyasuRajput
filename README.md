@@ -13,5 +13,5 @@
     * ➤ Added support for [CVSS-V4](https://github.com/intel/cve-bin-tool/pull/4944).
 
 Want to Contact me?
-[Mail me here]([Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=jigyasu2021@gmail.com)
-) 
+[Email me here !!!](https://mail.google.com/mail/?view=cm&fs=1&to=jigyasu2021@gmail.com)
+
