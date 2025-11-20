@@ -2,7 +2,7 @@
 
 * → Google Summer Of Code '25 @ [Python Software Foundation](https://www.python.org/psf/)
 * → Significant contributions to [Intel](https://github.com/intel), [Wagtail](https://github.com/wagtail), and [Python Argentina](https://github.com/pyar).
-* → Built [GSoC-Spy](https://gsoc-spy.vercel.app/) ⭐ 74 — solved the GSoC competition problem forever.
+* → Built [GSoC-Spy](https://gsoc-spy.vercel.app/) ⭐ 76 — solved the GSoC competition problem forever.
 * → Created [NeuralMeet](https://github.com/JigyasuRajput/neuralmeet), a platform to chat with custom AI agents. [Link](https://neuralmeet.vercel.app/sign-in)
 * → Contributions to [Intel/cve-bin-tool](https://github.com/intel/cve-bin-tool):
     * ➤ Built a tool to update Vex files: [Vex-Updater](https://github.com/JigyasuRajput/vex-updater).
