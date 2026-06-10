@@ -1,12 +1,11 @@
 22. AI Engineer building production LLM systems.
 
-Currently at [Akatsuki AI Technologies](https://akatsuki.co.jp/) (Tokyo), shipping multi-agent and RAG systems for Japanese enterprise clients across pharma, entertainment, and e-commerce. Promoted from intern to full-time within my first month.
+Currently at [Akatsuki AI Technologies](https://akatsuki.co.jp/) (Tokyo), shipping multi-agent and RAG systems for Japanese enterprise clients across pharma, entertainment, and e-commerce.
 
 ### What I work on
 
 * → Production RAG systems with semantic retrieval, evaluation pipelines (Precision@K, Recall@K), and multi-agent orchestration using LangGraph
 * → Open source — primarily in the AI agent infrastructure ecosystem, plus ongoing contributions to security and developer tooling
-* → Contract work for [Outlier (Scale AI)](https://outlier.ai/) on agent trajectory evaluation
 
 ### Production work at Akatsuki
 
