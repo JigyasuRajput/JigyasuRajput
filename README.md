@@ -1,6 +1,6 @@
 22. AI Engineer building production LLM systems.
 
-Currently at [Akatsuki AI Technologies](https://akatsuki.co.jp/) (Tokyo), shipping multi-agent and RAG systems for Japanese enterprise clients across pharma, entertainment, and e-commerce.
+Currently at [Akatsuki AI Technologies](https://aktsk.ai/en/about/) (Tokyo), shipping multi-agent and RAG systems for Japanese enterprise clients across pharma, entertainment, and e-commerce.
 
 ### What I work on
 
